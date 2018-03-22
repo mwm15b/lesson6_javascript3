@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 22, 2018
 
 ### Student Name:  
-(First and Last Name)
+Michael Meyers  
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Create photo gallery to display 5 photos, with control arrows for easy navigation. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://github.com/mwm15b/lesson6_javascript3
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to display images through js.
+2. How to circumvent using the src tag. 
+3. How to create a slideshow using js. 
